@@ -1,4 +1,5 @@
-/kafka-beginners-tmp/.idea/
 /target/
-/kafka-beginners.iml
 /.idea/
+/**/*.iml
+/kafka-basics/target/
+/kafka-producer-twitter/target/
